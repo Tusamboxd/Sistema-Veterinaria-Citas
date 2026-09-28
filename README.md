@@ -3,4 +3,5 @@ Trabajo final del curso Técnicas de Programación Orientada a Objetos 2026  Sis
 Solución: aplicación de escritorio para administrar la atención médica,
 el agendamiento de citas y el registro de servicios y vacunas.
 
-Módulo principal: Agendamiento de citas
+
+Módulo principal: Agendamiento de citas y Registro de Vacunas
